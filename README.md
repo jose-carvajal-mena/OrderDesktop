@@ -1,15 +1,10 @@
 
 # Order Desktop
 
-If need order the desktop of S.O. this tools can help you, is easy utilites just enter the path and ready.
+If you need order the desktop of S.O. this tools can help you, is easy utilites just enter the path and ready.
 
 
 ## Instrunctions
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## API Reference
