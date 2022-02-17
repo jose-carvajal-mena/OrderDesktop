@@ -1,7 +1,7 @@
 
 # Order Desktop
 
-If you need order the desktop of S.O. this tools can help you, is easy utilites just enter the path and ready.
+If you need order you desktop of S.O. this tools can help you, is easy of used just enter the path and ready.
 
 
 ## Instrunctions
