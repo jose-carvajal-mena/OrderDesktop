@@ -7,8 +7,6 @@ If you need order the desktop of S.O. this tools can help you, is easy utilites 
 ## Instrunctions
 
 
-## API Reference
-
 #### Get all items
 
 ```http
