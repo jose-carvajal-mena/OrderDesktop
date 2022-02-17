@@ -4,13 +4,13 @@ import glob
 import time
 
 # Here we define  where search the files to order.
-PATH_FILES = "c:/Users/B14573R/Desktop/"
+PATH_FILES = "c:/Users/name_user/Desktop/"
 
 # Here we define  that extension moved to the folders created.
-SEARCH_FILES = "c:/Users/B14573R/Desktop/*."
+SEARCH_FILES = "c:/Users/name_user/Desktop/*."
 
 # Here we define the paths source and destination for moved files.
-PATH_SRC = "c:/Users/B14573R/Desktop/Archivos "
+PATH_SRC = "c:/Users/name_user/Desktop/Archivos "
 
 
 list_files = os.listdir(PATH_FILES)
