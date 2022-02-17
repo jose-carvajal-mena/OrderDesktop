@@ -7,12 +7,6 @@ If you need order the desktop of S.O. this tools can help you, is easy utilites 
 ## Instrunctions
 
 
-#### Get all items
-
-```http
-  GET /api/items
-```
-
 | Parameter | Type     | Description                |
 | -------- | ------- | ------------------------- |
 | `PATH_FILES` | `string` | **Required**. where search the files to order. |
